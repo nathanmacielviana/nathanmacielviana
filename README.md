@@ -39,7 +39,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="heart_on_fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png"><a href="https://emoji.gg/emoji/1887-validate-blue-purple"><img src="https://cdn3.emoji.gg/emojis/1887-validate-blue-purple.png" width="64px" height="64px" alt="validate_blue_purple"></a></g-emoji>Email para contato: <a href="mailto:nathanmacielviana123456@gmail.com">nathanmacielviana123456@gmail.com</a></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="heart_on_fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png"><a href="https://emoji.gg/emoji/2016-catswing"><img src="https://cdn3.emoji.gg/emojis/2016-catswing.gif" width="64px" height="64px" alt="catswing"></a></g-emoji><a href="https://github.com/DevBolacha/Curriculo">Meu Currículo</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="heart_on_fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764-1f525.png"><a href="https://emoji.gg/emoji/2016-catswing"><img src="https://cdn3.emoji.gg/emojis/2016-catswing.gif" width="64px" height="64px" alt="catswing"></a></g-emoji><a href="https://github.com/nathanmacielviana/Curriculo">Meu Currículo</a></p>
 </li>
 </ul>
 </details>
