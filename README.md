@@ -40,5 +40,4 @@
 
   <a href="https://web.whatsapp.com/send?phone=85988167997" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://web.whatsapp.com/send?phone=85988167997"/></a>
-
-</p>  
+</p>
