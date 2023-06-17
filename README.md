@@ -2,6 +2,18 @@
 
 <h1 align="center">< Nathan Maciel /> </h1>
 
+<p align="center">
+<img src="https://img.shields.io/badge/%E2%AD%90-Follow-red"/>
+<img src="https://img.shields.io/badge/-Front--end%20Developer-gray">
+<img src="https://img.shields.io/badge/-HTML5-orange">
+<img src="https://img.shields.io/badge/-CSS3-blue">
+<img src="https://img.shields.io/badge/-JS-yellow">
+</p>
+<p dir="center">
+<a target="_blank" rel="noopener noreferrer nofollow" href="">
+</a>
+</p>
+
 <p align="left"> 
   Sou de Fortaleza, Ceará, tenho 19 anos e estou cursando ADS pela Estácio (Atualmente no 3 semestre)<br><br>
   Atualmente estagiando como recuperador de crédito em Call Center, em busca de oportunidade na área de TI. Estudando Front-End
