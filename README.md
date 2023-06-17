@@ -1,34 +1,32 @@
-<h1 align="center">Nathan Maciel</h1>
-<p align="center">
-<img src="https://img.shields.io/badge/%E2%AD%90-Follow-red"/>
-<img src="https://img.shields.io/badge/-Front--end%20Developer-gray">
-<img src="https://img.shields.io/badge/-HTML5-orange">
-<img src="https://img.shields.io/badge/-CSS3-blue">
-<img src="https://img.shields.io/badge/-JS-yellow">
-</p>
-<p dir="center">
-<a target="_blank" rel="noopener noreferrer nofollow" href="">
-<img src="https://giffiles.alphacoders.com/209/209159.gif" width="98%" height="380px" dir="center" align="center">
-</a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<h1 align="center">< Nathan Maciel /> </h1>
+
+<p align="left"> 
+  Sou de Fortaleza, Ceará, tenho 19 anos e estou cursando ADS pela Estácio (Atualmente no 3 semestre)<br><br>
+  Atualmente estagiando como recuperador de crédito em Call Center, em busca de oportunidade na área de TI. Estudando Front-End
 </p>
 
-<p align="center" dir="auto">
- <a href="https://www.instagram.com/nathan__maciel/" rel="nofollow">
-  <img align="center" width="72px" src="https://img.shields.io/badge/-Instagram-red" style="max-width: 100%;">
-</a>
-</a>
-<a href="mailto:nathanmacielviana123456@gmail.com" rel="nofollow">
-  <img align="center" width="42px" src="https://img.shields.io/badge/-Gmail-gray" style="max-width: 100%;">
-</a>
-<a href="https://www.linkedin.com/in/nathan-maciel-viana-104b35241/">
-  <img align="center"  width="62px" src="https://img.shields.io/badge/-Linked%20In-informational" style="max-width: 100%;">
-</a>
+<p align="left">
+  💻 Linguagens: <strong>HTML5, CSS3 e Javascript.</strong>
 </p>
 
-
-<h2 align="center">Linguagens Utilizadas 💻</h2>
-<p align="center" dir="auto">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="30px">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30px">
-<img align="center" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" width="30px">
+<p align="left">
+  🛠️ Ferramentas: <strong>Trabalho usando a ferramenta VS Code, utilizo também Illustrator, Photoshop e Premiere (para edições/design).</strong>
 </p>
+
+<p align="left">
+  💌 Entre em contato comigo: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:nathanmacielviana123456@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-maciel-viana-104b35241/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=85988167997"/></a>
+
+</p>  
