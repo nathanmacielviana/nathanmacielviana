@@ -15,7 +15,7 @@
 </p>
 
 <p align="left"> 
-  Sou de Fortaleza, Ceará, tenho 19 anos e estou cursando ADS pela Estácio (Atualmente no 3 semestre)<br><br>
+  Sou de Fortaleza, Ceará, tenho 19 anos e estou cursando ADS pela Estácio (Atualmente no 4 semestre)<br><br>
   Atualmente estagiando como recuperador de crédito em Call Center, em busca de oportunidade na área de TI. Estudando Front-End
 </p>
 
