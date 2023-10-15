@@ -24,12 +24,14 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo: ⤵️
+  💌 Entre em contato comigo:
 </p>
 
 <p align="left">
   <a href="mailto:nathanmacielviana123456@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:nathanmacielviana123456@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"link=mailto:nathanmacielviana123456@gmail.com" /></a>
+
+  
   <a href="https://web.whatsapp.com/send?phone=85988167997" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://web.whatsapp.com/send?phone=85988167997"/></a>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"link="https://web.whatsapp.com/send?phone=85988167997"/></a>
 </p>
