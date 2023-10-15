@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h1 align="center">< Nathan Maciel /> </h1>
+<h1 align="center"> Nathan Maciel </h1>
 
 <p align="center">
 
@@ -24,24 +24,12 @@
 </p>
 
 <p align="left">
-  <strong>🛠️ Ferramentas: ⤵️</strong> <br> <br>
-  <img align="center" src="https://img.shields.io/badge/VS%20%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
-</p>
-
-<p align="left">
   💌 Entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
   <a href="mailto:nathanmacielviana123456@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:nathanmacielviana123456@gmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/nathan-maciel-viana-104b35241/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-maciel-viana-104b35241/" /></a>
-
   <a href="https://web.whatsapp.com/send?phone=85988167997" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://web.whatsapp.com/send?phone=85988167997"/></a>
 </p>
