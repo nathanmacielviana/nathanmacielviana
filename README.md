@@ -14,7 +14,7 @@
   
 <p align="center"> <strong>Sobre mim 👨🏻‍💻</strong> </p>
 <p align="left"> 
-  Sou de Fortaleza, Ceará, tenho 20 anos e sou estudante de ADS pela Estácio<br> Atualmente em busca de oportunidades na área de desenvolvimento Front-End.
+  Sou de Fortaleza, Ceará, tenho 20 anos e sou estudante de ADS pela Estácio. Atualmente em busca de oportunidades na área de desenvolvimento Front-End.
 </p>
 
 <p align="left"><strong>Tecnologias Utilizadas 💻</strong></p>
