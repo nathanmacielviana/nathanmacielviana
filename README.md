@@ -14,8 +14,7 @@
   
 <p align="center"> <strong>Sobre mim 👨🏻‍💻</strong> </p>
 <p align="left"> 
-  Sou de Fortaleza, Ceará, tenho 20 anos e sou estudante de ADS pela Estácio (Atualmente no 5 semestre)
-  Em busca de oportunidade na área de TI. Estudando Front-End<br><br>
+  Sou de Fortaleza, Ceará, tenho 20 anos e sou estudante de ADS pela Estácio<br> Atualmente em busca de oportunidades na área de desenvolvimento Front-End.
 </p>
 
 <p align="left"><strong>Tecnologias Utilizadas 💻</strong></p>
@@ -27,7 +26,7 @@
 <br>
 <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img align="center" src="https://img.shields.io/badge/VS%20%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+
 <br><br>
 </p>
 
