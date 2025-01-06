@@ -1,16 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h1 align="center"><  Nathan Maciel ></h1>
-  <p align="center">
-  <a href="mailto:nathanmacielviana123456@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"link=mailto:nathanmacielviana123456@gmail.com" /></a>
-
-  
-  <a href="https://web.whatsapp.com/send?phone=85988167997" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"link="https://web.whatsapp.com/send?phone=85988167997"/></a>
-
-  <a href="https://portfolionathanmaciel.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   
 <p align="center"> <strong>Sobre mim 👨🏻‍💻</strong> </p>
 <p align="left"> 
