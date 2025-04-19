@@ -19,7 +19,7 @@
 <ul>
 <li>🔰   Sou de Fortaleza, CE</li>
 <li>📚 Graduado em Análise e Desenvolvimento de Sistemas</li>
-<li>💻 Desenvolvedor Front End na <a href="https://saturnfrontwork.vercel.app/">Saturn FrontWork</a></li>
+<li>💻 Desenvolvedor Front End </li>
 <li>✒️ UI & Graphic Designer</li>
 </ul>
 
