@@ -19,7 +19,7 @@
 <ul>
 <li>🔰   Sou de Fortaleza, CE</li>
 <li>📚 Graduado em Análise e Desenvolvimento de Sistemas</li>
-<li>💻 Desenvolvedor Front End </li>
+<li>👨🏻‍💻 Desenvolvedor Front End </li>
 <li>✒️ UI & Graphic Designer</li>
 </ul>
 
@@ -31,6 +31,6 @@
 
 <p align="left"><strong>Meus Links 📍</strong></p>
 <ul>
-  <li>🗂️ <a href="https://br.linkedin.com/in/nathan-maciel-104b35241" target_blank>Meu LinkedIn</a></li>
-  <li>💻 <a href="https://portfolionathanmaciel.vercel.app/" target_blank>Meu Portfólio</a></li>
+  <li>🌐 <a href="https://br.linkedin.com/in/nathan-maciel-104b35241" target_blank>Meu LinkedIn</a></li>
+  <li>🗂️ <a href="https://portfolionathanmaciel.vercel.app/" target_blank>Meu Portfólio</a></li>
 </ul>
