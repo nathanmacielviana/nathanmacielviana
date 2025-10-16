@@ -19,7 +19,7 @@
   
 <p align="left"> <strong>Sobre mim 👨🏻‍💻</strong></p>
 <ul>
-<li>🔰   Sou de Fortaleza, CE</li>
+<li>🔰  Fortaleza, CE</li>
 <li>📚 Graduado em Análise e Desenvolvimento de Sistemas</li>
 <li>👨🏻‍💻 Desenvolvedor Front End </li>
 <li>✒️ UI & Graphic Designer</li>
