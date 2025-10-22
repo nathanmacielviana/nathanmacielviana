@@ -22,7 +22,7 @@
 <li>🔰  Fortaleza, CE</li>
 <li>📚 Graduado em Análise e Desenvolvimento de Sistemas</li>
 <li>👨🏻‍💻 Desenvolvedor Front End </li>
-<li>✒️ UI & Graphic Designer</li>
+<li>✒️ UI Designer</li>
 </ul>
 
 <p align="left"><strong>Serviços 🛠️</strong></p>
